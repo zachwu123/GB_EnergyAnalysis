@@ -1,7 +1,7 @@
 # GB Power Prices Analysis and Forecasting
 
 ## Objectives
-The main objective of this project is to analyze the driving factors of GB power prices, investigate the transition to renewable energy, and develop predictive models for forecasting power prices. This involves understanding the correlations between commodity prices and power prices, assessing the seasonality of power prices, and evaluating the performance of different predictive models.
+The main objective of this project is to analyze the driving factors of **Great British Energy (GB Energy) power prices**, investigate the transition to renewable energy, and develop predictive models for forecasting power prices. This involves understanding the correlations between commodity prices and power prices, assessing the seasonality of power prices, and evaluating the performance of different predictive models.
 
 ## Datasets Used
 1. **Commodity Prices Data** (`gbr_commodities_1d.csv`): Contains daily prices for gas, coal, and carbon from 2018 to October 2020.
