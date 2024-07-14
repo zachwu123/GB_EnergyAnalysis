@@ -71,7 +71,6 @@ The data exploration phase involved the following steps:
 
 ## Repository Structure
 - `data/`: Contains all the datasets used in the project.
-- `notebooks/`: Jupyter notebooks with detailed data exploration, analysis, and model development.
 - `scripts/`: Python scripts for data processing and model training.
 - `results/`: Outputs and visualizations generated from the analysis.
 - `powerpoint/`: The final PowerPoint presentation summarizing the findings and insights.
